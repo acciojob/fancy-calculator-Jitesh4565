@@ -5,6 +5,6 @@ let num1=parseFloat(userInput1);
 let num2=parseFloat(userInput2);
 let result= 2*num1 + num2;
  
-alert("The Final result is: "+ result);
+alert("The final result is: "+ result);
 
 
